@@ -36,3 +36,7 @@ https://engineering.linecorp.com/ko/blog/openstack-summit-vancouver-2018-recap-1
 
 https://www.youtube.com/watch?v=YFcg2yxTwg4&ab_channel=DevProgramming
 bash-shell hacker rank problem solving
+
+
+https://www.youtube.com/watch?v=jxTRsE1_rfc&list=PLoVvAgF6geYOYrqI9G3TYLMsdOFcGJPEP&index=14&ab_channel=AbhishekJain
+shell script 프로그램 만들기
