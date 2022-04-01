@@ -32,3 +32,7 @@ core os와 katacontainer?
 
 https://engineering.linecorp.com/ko/blog/openstack-summit-vancouver-2018-recap-1-2/
 
+
+
+https://www.youtube.com/watch?v=YFcg2yxTwg4&ab_channel=DevProgramming
+bash-shell hacker rank problem solving
