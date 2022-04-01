@@ -26,3 +26,4 @@ container from scractch
 컨테이너 대 포드 - 자세히 살펴보기
 
 https://iximiuz.com/en/posts/containers-vs-pods/
+docker == container?
