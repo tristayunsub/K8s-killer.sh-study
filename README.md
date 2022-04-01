@@ -29,3 +29,6 @@ https://iximiuz.com/en/posts/containers-vs-pods/
 docker == container?
 
 core os와 katacontainer?
+
+https://engineering.linecorp.com/ko/blog/openstack-summit-vancouver-2018-recap-1-2/
+
