@@ -7,4 +7,22 @@ https://www.inflearn.com/course/%EA%B3%B5%EC%9D%B8-%EC%BF%A0%EB%B2%84%EB%84%A4%E
 killer.sh에 있는 문제들이 굉장히 좋기에 다 공부하는 것을 추천
 
 
-https://brunch.co.kr/@jehovah/35- 도커내부구조 뜯어보기
+https://brunch.co.kr/@jehovah/35- 도커내부구조 뜯어보기 
+
+좋은 정보들이 줄줄이나오누 ㅋㅋ
+
+https://blog.naver.com/ssang8417/222633834165 하이퍼바이저종류?
+
+kata container?
+
+표준 컨테이너란 무엇입니까(2021년판)
+컨테이너는 Linux 프로세스가 아닙니다.
+이반 벨리치코
+
+https://iximiuz.com/en/posts/oci-containers/
+
+container from scractch
+
+컨테이너 대 포드 - 자세히 살펴보기
+
+https://iximiuz.com/en/posts/containers-vs-pods/
