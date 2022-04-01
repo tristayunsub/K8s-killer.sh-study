@@ -27,3 +27,5 @@ container from scractch
 
 https://iximiuz.com/en/posts/containers-vs-pods/
 docker == container?
+
+core os와 katacontainer?
