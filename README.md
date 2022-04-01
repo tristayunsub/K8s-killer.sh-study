@@ -42,3 +42,7 @@ https://www.youtube.com/watch?v=jxTRsE1_rfc&list=PLoVvAgF6geYOYrqI9G3TYLMsdOFcGJ
 shell script 프로그램 만들기
 
 https://www.youtube.com/watch?v=H4eIQ6HWJME&list=PL4fA60kH3JvgV1tBryxjW6Q0k8IjBhYRf&index=16&ab_channel=NetworkingwithRich
+
+https://www.beginmate.com/mate/29167
+
+비긴메이트에서 팀프로젝트 같이만들기?
