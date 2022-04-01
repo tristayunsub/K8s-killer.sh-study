@@ -5,3 +5,6 @@ https://www.inflearn.com/course/%EA%B3%B5%EC%9D%B8-%EC%BF%A0%EB%B2%84%EB%84%A4%E
 쿠버네티스 자격증 잘준비하기
 
 killer.sh에 있는 문제들이 굉장히 좋기에 다 공부하는 것을 추천
+
+
+https://brunch.co.kr/@jehovah/35- 도커내부구조 뜯어보기
