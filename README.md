@@ -40,3 +40,5 @@ bash-shell hacker rank problem solving
 
 https://www.youtube.com/watch?v=jxTRsE1_rfc&list=PLoVvAgF6geYOYrqI9G3TYLMsdOFcGJPEP&index=14&ab_channel=AbhishekJain
 shell script 프로그램 만들기
+
+https://www.youtube.com/watch?v=H4eIQ6HWJME&list=PL4fA60kH3JvgV1tBryxjW6Q0k8IjBhYRf&index=16&ab_channel=NetworkingwithRich
