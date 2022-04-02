@@ -46,3 +46,7 @@ https://www.youtube.com/watch?v=H4eIQ6HWJME&list=PL4fA60kH3JvgV1tBryxjW6Q0k8IjBh
 https://www.beginmate.com/mate/29167
 
 비긴메이트에서 팀프로젝트 같이만들기?
+
+
+https://medium.com/@tkdgy0801/prometheus-cortex-deep-dive-part-2-7544da526317
+프로메테우스 deep dive
