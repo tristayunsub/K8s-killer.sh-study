@@ -50,3 +50,7 @@ https://www.beginmate.com/mate/29167
 
 https://medium.com/@tkdgy0801/prometheus-cortex-deep-dive-part-2-7544da526317
 프로메테우스 deep dive
+
+https://www.youtube.com/watch?v=8T_i3E0kUFE&list=PLTnRtjQN5ieYD97JCZtcGbIjq1EINih2G&ab_channel=Linode
+
+linode kubernetes workshop 
