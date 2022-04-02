@@ -74,3 +74,9 @@ https://www.youtube.com/watch?v=_bI_WcBc4ak&ab_channel=kuberneteskoreagroup
 https://www.notion.so/96f6ed8a518b4245ab87dc8ffd669cbb
 
 인프런 쿠버네티스 온라인강의 실습
+
+
+https://www.youtube.com/watch?v=LuKYu9ASGyo&ab_channel=CloudNativeSkunkworks
+terragrunt  
+https://www.padok.fr/en/blog/terraform-code-terragrunt
+terragrunt
