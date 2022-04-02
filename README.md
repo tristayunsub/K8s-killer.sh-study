@@ -55,5 +55,5 @@ https://www.youtube.com/watch?v=8T_i3E0kUFE&list=PLTnRtjQN5ieYD97JCZtcGbIjq1EINi
 
 linode kubernetes workshop 
 
-https://www.youtube.com/watch?v=MP3Wm9dtHSQ&ab_channel=Linode
+https://bcho.tistory.com/1255
 쿠버네티스 이해
