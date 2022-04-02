@@ -69,3 +69,8 @@ https://devthomas.tistory.com/6?category=768639
 prometheus 
 
 https://www.youtube.com/watch?v=_bI_WcBc4ak&ab_channel=kuberneteskoreagroup
+
+
+https://www.notion.so/96f6ed8a518b4245ab87dc8ffd669cbb
+
+인프런 쿠버네티스 온라인강의 실습
