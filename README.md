@@ -64,3 +64,8 @@ https://tommypagy.tistory.com/239
 https://jhnyang.tistory.com/notice/45 
 
 리눅스학습
+
+https://devthomas.tistory.com/6?category=768639
+prometheus 
+
+https://www.youtube.com/watch?v=_bI_WcBc4ak&ab_channel=kuberneteskoreagroup
