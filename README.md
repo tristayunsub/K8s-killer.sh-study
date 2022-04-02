@@ -59,3 +59,8 @@ https://bcho.tistory.com/1255
 쿠버네티스 이해
 
 https://tommypagy.tistory.com/239
+
+
+https://jhnyang.tistory.com/notice/45 
+
+리눅스학습
