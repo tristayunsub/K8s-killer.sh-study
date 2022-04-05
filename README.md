@@ -4,6 +4,9 @@
 
 https://www.youtube.com/watch?v=y_L_SdjBplA&ab_channel=becloudready
 
+https://yoonchang.tistory.com/58?category=902723
+큐베공부
+
 
 https://www.youtube.com/watch?v=8sDzDpywFvY&ab_channel=Mirantis: learn YAML!
 
